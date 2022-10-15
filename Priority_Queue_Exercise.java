@@ -85,6 +85,5 @@ public class Priority_Queue_Exercise{
         while(!queue.isEmpty()){
             System.out.println(queue.poll());
         }
-        System.out.println();
     }
 }
